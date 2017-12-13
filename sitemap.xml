@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.666ym.cn/news/666ym.html</loc>
+    
+    <lastmod>2017-12-13T05:33:12.489Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.666ym.cn/archives/index.html</loc>
+    
+    <lastmod>2017-12-13T05:24:29.081Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.666ym.cn/categories/index.html</loc>
+    
+    <lastmod>2017-12-13T05:23:37.087Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.666ym.cn/news/alipay.html</loc>
     
     <lastmod>2017-12-13T04:19:48.902Z</lastmod>
@@ -128,13 +149,6 @@
   </url>
   
   <url>
-    <loc>http://www.666ym.cn/news/666ym.html</loc>
-    
-    <lastmod>2017-10-25T09:10:17.251Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.666ym.cn/index.html</loc>
     
     <lastmod>2017-10-25T08:09:05.816Z</lastmod>
@@ -229,13 +243,6 @@
     <loc>http://www.666ym.cn/about/index.html</loc>
     
     <lastmod>2017-10-11T11:54:00.141Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.666ym.cn/categories/index.html</loc>
-    
-    <lastmod>2017-09-11T13:39:04.483Z</lastmod>
     
   </url>
   
